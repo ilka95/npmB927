@@ -1,2 +1,2 @@
 # npmB927
-npm install
+npm install npm_falaleev
