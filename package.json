@@ -13,6 +13,6 @@
   "author": "Ilia",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.1.3"
+    "jquery": "^3.6.0"
   }
 }
